@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephenmatthews
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently studying Interactive Computing @ Ulster University
+- 🎓 Recent Interactive Computing 1st Class Honours Graduate from Ulster University
+- 👨🏽‍💻 Software Engineer @ <a href="https://www.dawsonandrews.com" target="_blank">Dawson Andrews, Belfast</a>
 - 📫 Reach me via <a href="https://www.linkedin.com/in/stephentmatthews/" target="_blank">LinkedIn </a>
 
 <!---
